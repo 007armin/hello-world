@@ -1,5 +1,5 @@
-# hello-world
-Idea repository
+# hello, hello -World
+Idea rep
 
 
 this is an attempt to figure out the basic usability of github.
